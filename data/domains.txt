@@ -1,0 +1,3 @@
+# Illustrative hostnames only. Verify with local DNS observations before blocking.
+# Add observed tracking hosts here, one per line.
+# example.telemetry.invalid
